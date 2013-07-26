@@ -2,7 +2,7 @@
 layout: page
 title:  
 header: Our Story
-tagline: Creating Apps we enjoyed!
+tagline: Our Story
 group: navigation
 ---
 {% include JB/setup %}
@@ -16,11 +16,11 @@ We used to think deeply, and find out the key feature, the root cause of problem
 
 ##### What we do.
 
-We make Apps that we enjoyed，including networking tools, performances tools, ebooks etc.
+We make Apps that we enjoyed，including networking tools, productivity utilities, ebooks etc.
 
 Everyone is doing the same thing. 
 How can we do better?
-Yeah, that's right. But we will look for the requirement from ourselives, and resolve the key problem of us firstly. This make us more sensitive facing to the design of product.
+Yeah, that's right. But we will look for the requirement from ourselives, and resolve the key problem of us firstly. This make us more sensitive facing to the design of product.Furthermore, we will work more hard for us. 
 
-We also develop some open source projects to share our resolution with others.
+We also develop some open source projects to share our solution.
 

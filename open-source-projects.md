@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 
-header: Open Source projects
-tagline: Open Source projects
+header: Open Source
+tagline: Open Source
 group: navigation
 ---
 {% include JB/setup %}
