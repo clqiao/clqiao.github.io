@@ -7,10 +7,13 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* SSH Proxy, performance for mac
-* Bird Unchain, Tweet anywhere.
-* Face Unchain, Face anywhere.
 
+
+[SSH Proxy](/nav-products/ssh-proxy.html)
+
+[Bird Unchain](/nav-products/bird-unchain.html)
+
+[Face Unchain](/nav-products/face-unchain.html)
 
 
 
