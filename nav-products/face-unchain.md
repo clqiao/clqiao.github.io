@@ -2,9 +2,11 @@
 layout: page
 title: Face Unchain
 header: Face Unchain
-tagline: Facebook Anywhere.
+tagline: Face Unchain - Facebook Anywhere
 ---
 {% include JB/setup %}
+
+Coming soon.
 
 Description:
 
