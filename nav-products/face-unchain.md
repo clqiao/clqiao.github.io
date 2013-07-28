@@ -2,9 +2,11 @@
 layout: page
 title: Face Unchain
 header: Face Unchain
-tagline: Facebook Anywhere.
+tagline: Face Unchain - Facebook Anywhere
 ---
 {% include JB/setup %}
+
+Coming soon.
 
 Description:
 
@@ -12,10 +14,10 @@ Face Unchain allows you access Facebook through a secure connection when you are
 
 Key features: 
 
-• Providing you fast and private access to Facebook through our anonymous network connection; 
-• Out of the box experience; 
-• Do not require a VPN server; 
-• No need to change any settings of your iPhone / iPad; 
+- Providing you fast and private access to Facebook through our anonymous network connection; 
+- Out of the box experience; 
+- Do not require a VPN server; 
+- No need to change any settings of your iPhone / iPad; 
 
 Limitations: 
 
