@@ -6,15 +6,14 @@ tagline: Our Story
 group: navigation
 ---
 {% include JB/setup %}
-##### Who we are.
+### Who we are.
 
 We love graceful design, reasonable technology, excellent experience. And 	we will try our best to achieve them.
 
 We used to think deeply, and find out the key feature, the root cause of problems.
 
-* * *
 
-##### What we do.
+### What we do.
 
 We make Apps that we enjoyed，including networking tools, productivity utilities, ebooks etc.
 
