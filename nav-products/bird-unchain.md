@@ -6,7 +6,7 @@ tagline: Bird Unchain - Tweet Anywhere
 ---
 {% include JB/setup %}
 
-![Bird Unchain]({{ site.url }}/assets/images/products-screen/bird-unchain-1.png)
+![Bird Unchain]({{ site.url }}/assets/images/products-screen/bird-unchain-1.jpg)
 
 [Download from App Store](https://itunes.apple.com/us/app/bird-unchain-tweet-anywhere/id656190986?mt=8)
 

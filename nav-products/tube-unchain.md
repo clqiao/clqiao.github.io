@@ -6,7 +6,7 @@ tagline: Tube Unchain - YouTube Anywhere
 ---
 {% include JB/setup %}
 
-![Tube Unchain]({{ site.url }}/assets/images/products-screen/tube-unchain-2.png)
+![Tube Unchain]({{ site.url }}/assets/images/products-screen/tube-unchain-2.jpg)
 
 Coming soon.
 

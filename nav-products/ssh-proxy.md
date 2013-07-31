@@ -6,7 +6,7 @@ tagline: SSH Proxy - create a SOCKS 5 proxy through SSH
 ---
 {% include JB/setup %}
 
-![SSH Proxy]({{ site.url }}/assets/images/products-screen/ssh-proxy-1.png)
+![SSH Proxy]({{ site.url }}/assets/images/products-screen/ssh-proxy-1.jpg)
 
 [Download from Mac App Store](https://itunes.apple.com/us/app/ssh-proxy/id597790822?mt=12&uo=4)
 
