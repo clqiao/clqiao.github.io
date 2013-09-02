@@ -8,7 +8,7 @@ tagline: Face Unchain - Facebook Anywhere
 
 ![Face Unchain]({{ site.url }}/assets/images/products-screen/face-unchain-1.jpg)
 
-Coming soon.
+[Download from App Store](https://itunes.apple.com/app/face-unchain-facebook-anywhere/id680125719?mt=8)
 
 Description:
 
