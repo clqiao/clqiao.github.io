@@ -28,8 +28,8 @@ Key Features:
 
 Limitations: 
 
-• After the first time Unchained Browser installed, you can tryout Unchained Browser Service for entirely free within 24 hours. After that trial period, you will be asked to purchase subscription for continue using Unchained Browser service. 
-• Unchained Browser with version 13.09 can not play the video on the YouTube.com. It will be resolved in the further version. 
+- After the first time Unchained Browser installed, you can tryout Unchained Browser Service for entirely free within 24 hours. After that trial period, you will be asked to purchase subscription for continue using Unchained Browser service. 
+- Unchained Browser with version 13.09 can not play the video on the YouTube.com. It will be resolved in the further version. 
 
 Disclaimer: 
 
