@@ -17,12 +17,14 @@ Unchained Browser allows you surfing the Internet fast and smoothly, with extra 
 
 Key Features: 
 
-• Providing you fast and private access to Internet; 
-• Out of the box experience; 
-• Search and navigate fast, directly from the same box. Choose from results that appear as you type. 
-• Simple, intuitive experience. quickly switch between tabs. 
-• No need to change any settings of your iPhone / iPad; 
-• No Ads. 
+- Accessing any website from China or any other regions where some popular websites are blocked or monitored.
+- Fast and private accessing Internet through anonymous network connection; 
+- Search and navigate fast, directly from the same box. Choose from results that appear as you type. 
+- Simple, intuitive experience. quickly switch between tabs. 
+- Out of the box experience.
+- No need to change any settings of your iPhone / iPad; 
+- No Vpn server required. 
+- No Ads.
 
 Limitations: 
 

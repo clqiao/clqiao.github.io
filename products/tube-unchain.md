@@ -16,10 +16,12 @@ Tube Unchain allows you access YouTube through a secure connection when you are 
 
 Key features: 
 
-- Providing you fast and private access to YouTube through our anonymous network connection; 
-- Out of the box experience; 
-- Do not require a VPN server; 
+- Accessing YouTube from China or any other regions where YouTube is blocked or monitored.
+- Fast and private accessing YouTube through anonymous network connection; 
+- Out of the box experience.
 - No need to change any settings of your iPhone / iPad; 
+- No Vpn server required. 
+- No Ads.
 
 Limitations: 
 
