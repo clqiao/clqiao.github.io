@@ -17,7 +17,7 @@ Unchained Browser allows you surfing the Internet fast and smoothly, with extra 
 
 Key Features: 
 
-- Accessing any website from China or any other regions where some popular websites are blocked or monitored.
+- Accessing any website in China or any other regions where some popular websites are blocked or monitored.
 - Fast and private accessing Internet through anonymous network connection; 
 - Search and navigate fast, directly from the same box. Choose from results that appear as you type. 
 - Simple, intuitive experience. quickly switch between tabs. 

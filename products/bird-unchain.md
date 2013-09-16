@@ -16,7 +16,7 @@ Bird Unchain allows you access Twitter through a secure connection when you are 
 
 Key features: 
 
-- Accessing Twitter from China or any other regions where Twitter is blocked or monitored.
+- Accessing Twitter in China or any other regions where Twitter is blocked or monitored.
 - Fast and private accessing Twitter through anonymous network connection; 
 - Out of the box experience.
 - No need to change any settings of your iPhone / iPad; 

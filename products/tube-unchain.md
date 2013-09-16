@@ -16,7 +16,7 @@ Tube Unchain allows you access YouTube through a secure connection when you are 
 
 Key features: 
 
-- Accessing YouTube from China or any other regions where YouTube is blocked or monitored.
+- Accessing YouTube in China or any other regions where YouTube is blocked or monitored.
 - Fast and private accessing YouTube through anonymous network connection; 
 - Out of the box experience.
 - No need to change any settings of your iPhone / iPad; 

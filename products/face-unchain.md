@@ -16,7 +16,7 @@ Face Unchain allows you access Facebook through a secure connection when you are
 
 Key features: 
 
-- Accessing Facebook from China or any other regions where Facebook is blocked or monitored.
+- Accessing Facebook in China or any other regions where Facebook is blocked or monitored.
 - Fast and private accessing Facebook through anonymous network connection; 
 - Out of the box experience.
 - No need to change any settings of your iPhone / iPad; 
